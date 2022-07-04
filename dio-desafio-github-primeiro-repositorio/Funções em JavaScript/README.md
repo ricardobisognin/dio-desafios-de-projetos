@@ -1,3 +1,5 @@
-# Funções
+# Funções em JavaScript
 
-Material produzido como exercício da aula de *Funções*, ministrada pela DIO.
+
+
+Conteúdo criado através dos ensinamentos da aula de **Funções em JavaScript**, ministrado pela *DIO*.
